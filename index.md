@@ -9,18 +9,18 @@ This DevGuide project is our effort to eliminate these problem. Our project plan
 We plan to ship our features incrementally. This is our roadmap for the project.  
 
 ## Main Features
-[ ]  Code snippets / example
-[ ]  Minimal note-taking
-[ ]  To-Do for progression
-[ ]  Code use case, based on activity
-[ ]  Categorization per role
+- Code snippets / example
+- Minimal note-taking
+- To-Do for progression
+- Code use case, based on activity
+- Categorization per role
 
 ## Targeted Milestone
-[ ]  Progression backup
-[ ]  Forum Discussion
-[ ]  Solution voting
-[ ]  Mobile UI
-[ ]  ***Maybe more ?***  
+- Progression backup
+- Forum Discussion
+- Solution voting
+- Mobile UI
+- ***Maybe more ?***  
 
 ## Our Team
 - Akbar Maulana Alfatih ([@MosQyy](https://www.github.com/MosQyy) / 1313619003)
