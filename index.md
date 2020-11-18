@@ -1,5 +1,5 @@
 ![](./assets/Logo.png)  
-[Main Repository](https://github.com/DevGuide-Web/DevGuide)  |  [Blog](https://devguide-web.github.io/blog/)
+[Main Repository](https://github.com/DevGuide-Web/DevGuide)  |  [Blog](https://devguide-web.github.io/blog/)  
 Have you ever find it difficult for you to learn about your specific subject in computer science ? We do. Subject material are usually spread through the internet and sometimes difficult to search. Also, some article are hard to read or have quite advanced difficulties.  
 
 This DevGuide project is our effort to eliminate these problem. Our project plans to help you consider your carreer path and also give you the right direction on what you need to learn right now and in the future.  
