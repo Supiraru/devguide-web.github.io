@@ -1,8 +1,7 @@
 <p align="center">
   <img src="./assets/Logo.png">
-<p/>
+<p/><br>
 
-  [Main Repository](https://github.com/DevGuide-Web/DevGuide)  |  [Blog](https://devguide-web.github.io/blog/)  
 
 Have you ever find it difficult for you to learn about your specific subject in computer science ? We do. Subject material are usually spread through the internet and sometimes difficult to search. Also, some article are hard to read or have quite advanced difficulties.  
 
