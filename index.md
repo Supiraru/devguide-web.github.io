@@ -22,6 +22,9 @@ We plan to ship our features incrementally. This is our roadmap for the project.
 - Mobile UI
 - ***Maybe more ?***  
 
+## Targeted Milestone
+[Adobe XD](https://xd.adobe.com/view/1c2a7763-e778-4279-bb00-5bc548ea7973-4979/)
+
 ## Our Team
 - Akbar Maulana Alfatih ([@MosQyy](https://www.github.com/MosQyy) / 1313619003)
 - Farhan Dewanta Syahputra ([@Supiraru](https://www.github.com/Supiraru) / 1313619017)
