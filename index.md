@@ -22,7 +22,7 @@ We plan to ship our features incrementally. This is our roadmap for the project.
 - Mobile UI
 - ***Maybe more ?***  
 
-## Targeted Milestone
+## Mockup Design
 [Adobe XD](https://xd.adobe.com/view/1c2a7763-e778-4279-bb00-5bc548ea7973-4979/)
 
 ## Our Team
