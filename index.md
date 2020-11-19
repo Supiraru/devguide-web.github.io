@@ -8,6 +8,8 @@ This DevGuide project is our effort to eliminate these problem. Our project plan
 # Planned Features
 We plan to ship our features incrementally. This is our roadmap for the project.  
 
+![](./assets/widget.png) 
+
 ## Main Features
 - Code snippets / example
 - Minimal note-taking
